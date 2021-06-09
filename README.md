@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Зміст
 
 - [Основні дати практики](#Основні-дати-практики)
@@ -15,14 +15,24 @@
 
 =======
 
-## Пояснення колонок файлу-анатоції [[labels-example](labels-example.csv)]
+## Пояснення колонок у файлі-анатоції [[labels-example](labels-example.csv)]
 
 | Назва колонки  | Пояснення |
 | --- | --- |
-| Image_name | Назва рентгенограми з директорії images|
+| Image_name | Назва рентгенограми з директорії **images**|
 | Sex | Стать пацієнта: <br> Male - Чоловік <br> Female - Жінка|
 | Age | Вік пацієнта|
 | Frontal/Lateral| <br> Frontal - Фронтальний [[приклад](im/view1_frontal2PA.jpg)] <br> Lateral - Бічний [[приклад](im/view2_lateral2.jpg)] |
 | AP/PA |  Проекції [[детальніше](https://www.radiologymasterclass.co.uk/tutorials/chest/chest_quality/chest_xray_quality_projection)]: <br> Posterior-Anterior -- PA [[приклад](im/view1_frontal2PA.jpg)] <br> Anterior-Posterior -- AP [[приклад](im/view1_frontalAP.jpg)] |
 | Device | Назва рентгенівського апарату, яким було зроблено знімок |
-| March 12 | Lecture 6: [Computer vision](https://glouppe.github.io/info8010-deep-learning/?p=lecture6.md) [[PDF](https://glouppe.github.io/info8010-deep-learning/pdf/lec6.pdf)] [[Side notes](https://glouppe.github.io/info8010-deep-learning/pdf/lec6-sidenotes.pdf)] [[video](https://youtu.be/cfZGfJaLRxA)] |
+| No_Finding | Ренгенограми на яких не виявлено жодних ознак захворювання |
+
+
+## Типи міток у файлі-анатоції [[labels-example](labels-example.csv)]
+
+| Позначення мітки  | Пояснення |
+| --- | --- |
+| 1 | У колонці з хворобою ця позначка означає, що на ренгенограмі чітко видно ознаки цієї хвороби.
+<br> У колонці *No_Finding* ця позначка означає, що на ренгенограмі немає ознак жодної хвороби. |
+|  | Порожня комірка у колонці з хворобою означає, що на ренгенограмі відсутні ознаки цієї хвороби. <br> Порожня комірка у колонці *No_Finding* означає, що на ренгенограмі виявлено ознаки щонайменше однієї хвороби або є підозри хвороби. |
+| -1| У колонці з хворобою ця позначка означає, що ренгенолог не чітко впевнений щодо приналежності виявлених ознак до цієї хвороби. |
