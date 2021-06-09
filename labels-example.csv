@@ -1,7 +1,7 @@
-Image name,Sex,Age,Frontal/Lateral,AP/PA,Device,No_Finding,Atelectasis,Consolidation,Infiltration,Pneumothorax,Edema,Emphysema,Fibrosis,Effusion,Pneumonia,Pleural_Thickening,Cardiomegaly,Nodule,Mass,Hernia
-2020_03_31_000001.png,Female,68,Frontal,AP,Siemens Mobilett XP Digital,1,,,,,,,,,,,,,,
-2021_03_31_000001.png,Female,69,Frontal,AP,Philips BV 25,,-1,-1,,,-1,,,,,,-1,,,
-2021_04_01_000002.png,Male,83,Frontal,AP,Siemens Mobilett XP Digital,,,-1,1,,,,1,,,,,,,
-2021_04_01_000003.png,Female,27,Frontal,AP,Siemens Mobilett XP Digital,,,-1,,,,,,,,,,,,1
-2021_04_01_000004.png,Male,41,Frontal,AP,Siemens Mobilett XP Digital,,,,,,1,,-1,,,,,,,
-2021_04_015_000435.png,Male,20,Frontal,AP,Siemens Mobilett XP Digital,1,,,,,,,,,,,,,-1,
+Image name,Sex,Age,Frontal/Lateral,AP/PA,Device,No_Finding,Atelectasis,Consolidation,Infiltration,Pneumothorax,Edema,Emphysema,Fibrosis,Effusion,Pneumonia,Pleural_Thickening,Cardiomegaly,Nodule,Mass,Hernia,Tuberculosis 
+2020_03_31_000001.png,Female,68,Frontal,AP,Siemens Mobilett XP Digital,1,,,,,,,,,,,,,,,
+2021_03_31_000001.png,Female,69,Frontal,AP,Philips BV 25,,-1,-1,,,-1,,,,,,-1,,,,
+2021_04_01_000002.png,Male,83,Frontal,AP,Siemens Mobilett XP Digital,,,-1,1,,,,1,,,,,,,,1
+2021_04_01_000003.png,Female,27,Frontal,AP,Siemens Mobilett XP Digital,,,-1,,,,,,,,,,,,1,
+2021_04_01_000004.png,Male,41,Frontal,AP,Siemens Mobilett XP Digital,,,,,,1,,-1,,,,,,,,
+2021_04_015_000435.png,Male,20,Frontal,AP,Siemens Mobilett XP Digital,1,,,,,,,,,,,,,-1,,
