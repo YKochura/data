@@ -24,3 +24,5 @@
 
 
 | Image_name | Sex | Age | Frontal/Lateral | AP/PA | Device | No_Finding | Atelectasis| Consolidation | Infiltration | Pneumothorax |
+| :---: | :---: |:---: | :---: |:---: | :---: |:---: | :---: |:---: | :---: |:---: | 
+| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 
