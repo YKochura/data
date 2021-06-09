@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Зміст
 
 - [Основні дати практики](#Основні-дати-практики)
@@ -12,6 +13,8 @@
 
 
 
+=======
+>>>>>>> 776a51a1f9616eea80024a011eea82fc48fa89b3
 ## Agenda
 
 | Date | Topic |
@@ -30,4 +33,8 @@
 | April 23 | Lecture 10: Generative models (part 2) |
 | April 30 | Lecture 11: Uncertainty<br>Deadline for the reading assignment |
 | May 7 | Lecture 12: Deep reinforcement learning |
+<<<<<<< HEAD
 | May 14 | Deadline for the project (code and report) |
+=======
+| May 14 | Deadline for the project (code and report) |
+>>>>>>> 776a51a1f9616eea80024a011eea82fc48fa89b3
