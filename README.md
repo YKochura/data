@@ -27,8 +27,8 @@
 
 ### Приклад \#1
 
-| Image_name | Sex | Age | Frontal/Lateral | AP/PA | Device | No_Finding | Atelectasis| Consolidation | Infiltration | Pneumothorax |
-| :---: | :---: |:---: | :---: |:---: | :---: |:---: | :---: |:---: | :---: |:---: | 
-| 2020_03_31_000001.png | Female | 68 | Frontal | AP | Siemens Mobilett XP Digital | 1 |  |  |  |  | 
+| Image_name | Sex | Age | Frontal/Lateral | AP/PA | Device | No_Finding | Atelectasis| Consolidation | Infiltration | Pneumothorax | Edema | Emphysema | Fibrosis | Effusion | Pneumonia | Pleural_Thickening | Cardiomegaly | Nodule | Mass | Hernia | Tuberculosis  |
+| :---: | :---: |:---: | :---: |:---: | :---: |:---: | :---: |:---: | :---: |:---: | :---: | :---: |:---: | :---: |:---: | :---: |:---: | :---: |:---: | :---: |:---: | 
+| 2020_03_31_000001.png | Female | 68 | Frontal | AP | Siemens Mobilett XP Digital | 1 |  |  |  |  | |  |  |  |  |  | 
 
-2020_03_31_000001.png - на ренгенограмі немає ознак жодної хвороби.
+ На ренгенограмі *2020_03_31_000001.png* немає ознак жодної хвороби.
