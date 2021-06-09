@@ -9,7 +9,7 @@
 | Sex | Стать пацієнта: <br> Male - Чоловік <br> Female - Жінка|
 | Age | Вік пацієнта|
 | Frontal/Lateral| <br> Frontal - Фронтальний [[приклад](im/view1_frontal2PA.jpg)] <br> Lateral - Бічний [[приклад](im/view2_lateral2.jpg)] |
-| AP/PA |  Проекції [[детальніше](https://www.radiologymasterclass.co.uk/tutorials/chest/chest_quality/chest_xray_quality_projection)]: <br> Posterior-Anterior -- PA [[приклад](im/view1_frontal2PA.jpg)] <br> Anterior-Posterior -- AP [[приклад](im/view1_frontalAP.jpg)] |
+| AP/PA |  Проекції [[детальніше](https://www.radiologymasterclass.co.uk/tutorials/chest/chest_quality/chest_xray_quality_projection)]: <br> Posterior-Anterior (PA) [[приклад](im/view1_frontal2PA.jpg)] <br> Anterior-Posterior (AP) [[приклад](im/view1_frontalAP.jpg)] |
 | Device | Назва рентгенівського апарату, яким було зроблено знімок |
 | No_Finding | Ренгенограми на яких не виявлено жодних ознак захворювання |
 
